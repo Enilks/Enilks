@@ -1,3 +1,5 @@
+Hey, I'm Kline Shimp, or @Enilks if you're looking to find me online. I'm a senior in high school with an interest in programming and computer science.
+
 - 👋 Hi, I’m @Enilks! I'm just diving into the world of programming and computer science, and I hope to someday make a career in it!
 - 👀 I’m interested in machine learning, as well as animation and game design.
 - 🌱 I’m currently learning Java. I'm also learning how to work with Large Language Models and how to implement conversational guardrails.
