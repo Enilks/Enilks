@@ -4,7 +4,7 @@ My blossoming interest in programming and computer science led me to get involve
 
 Recently, I have begun learning to write in Java. These efforts include a submission for the U.S. Congressional App Challenge I wrote with a classmate, [My First Eldritch Evil](https://github.com/skidoodl/My-First-Eldritch-Evil). It's intended to be an alternative take on the Tamagotchi format, where the pet you lovingly raise is a demonic ancient horror. While the original app we created for the CAC was merely terminal based, I've spent several weeks learning Java Swing and AWT to implement a fun GUI. Having predominantly taken the role of project lead and designer, this little project is like my own pet. I have learned so much through it's creation and have thoroughly enjoyed the journey its taken me on.
 
-A second project I've undertaken is much smaller and more of a personal learning tool: Sortbread. 
+A second project I've undertaken is much smaller and more of a personal learning tool: [Sortbread](https://github.com/Enilks/Sortbread).
 
 - 👋 Hi, I’m @Enilks! I'm just diving into the world of programming and computer science, and I hope to someday make a career in it!
 - 👀 I’m interested in machine learning, as well as animation and game design.
